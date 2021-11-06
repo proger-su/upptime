@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1258,
-    "timeDay": 1258,
-    "timeWeek": 1258,
-    "timeMonth": 1258,
-    "timeYear": 1258,
+    "time": 1169,
+    "timeDay": 1169,
+    "timeWeek": 1169,
+    "timeMonth": 1169,
+    "timeYear": 1169,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test",
+    "url": "http://lorem.ipsum",
+    "icon": "https://favicons.githubusercontent.com/lorem.ipsum",
+    "slug": "test",
+    "status": "down",
+    "uptime": "28.52%",
+    "uptimeDay": "28.52%",
+    "uptimeWeek": "28.52%",
+    "uptimeMonth": "28.52%",
+    "uptimeYear": "28.52%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-11-06": 0
+    }
   }
 ]
