@@ -4,17 +4,19 @@
     "url": "https://www.tarot-ana.fr",
     "icon": "https://favicons.githubusercontent.com/www.tarot-ana.fr",
     "slug": "tarot-ana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1030,
-    "timeDay": 1103,
-    "timeWeek": 945,
-    "timeMonth": 1027,
-    "timeYear": 1030,
-    "dailyMinutesDown": {}
+    "time": 1021,
+    "timeDay": 606,
+    "timeWeek": 841,
+    "timeMonth": 999,
+    "timeYear": 1021,
+    "dailyMinutesDown": {
+      "2022-02-21": 0
+    }
   }
 ]
