@@ -6,15 +6,15 @@
     "slug": "tarot-ana",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.34%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 1015,
-    "timeDay": 702,
-    "timeWeek": 854,
-    "timeMonth": 987,
-    "timeYear": 1015,
+    "time": 1013,
+    "timeDay": 699,
+    "timeWeek": 848,
+    "timeMonth": 975,
+    "timeYear": 1013,
     "dailyMinutesDown": {
       "2022-02-21": 24
     }
