@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 689,
-    "timeDay": 311,
-    "timeWeek": 333,
-    "timeMonth": 495,
+    "time": 688,
+    "timeDay": 393,
+    "timeWeek": 351,
+    "timeMonth": 494,
     "timeYear": 611,
     "dailyMinutesDown": {
       "2023-07-07": 321,
@@ -23,6 +23,26 @@
       "2023-02-14": 67,
       "2023-02-13": 1,
       "2022-12-17": 25
+    }
+  },
+  {
+    "name": "H Daily",
+    "url": "https://hdaily.astrofeed.ovh",
+    "icon": "https://icons.duckduckgo.com/ip3/hdaily.astrofeed.ovh.ico",
+    "slug": "h-daily",
+    "status": "down",
+    "uptime": "6.99%",
+    "uptimeDay": "6.99%",
+    "uptimeWeek": "6.99%",
+    "uptimeMonth": "6.99%",
+    "uptimeYear": "6.99%",
+    "time": 418,
+    "timeDay": 418,
+    "timeWeek": 418,
+    "timeMonth": 418,
+    "timeYear": 418,
+    "dailyMinutesDown": {
+      "2023-08-30": 0
     }
   }
 ]
