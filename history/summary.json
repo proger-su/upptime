@@ -4,7 +4,7 @@
     "url": "https://www.tarot-ana.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.tarot-ana.fr.ico",
     "slug": "tarot-ana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 539,
     "timeYear": 483,
     "dailyMinutesDown": {
+      "2023-11-02": 0,
       "2023-07-07": 321,
       "2023-07-06": 46,
       "2023-06-26": 621,
