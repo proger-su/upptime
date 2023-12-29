@@ -7,6 +7,8 @@ sites:
     url: https://www.tarot-ana.fr
   - name: H Daily
     url: https://hdaily.astrofeed.ovh
+  - name: Multi Hardware
+    url: https://www.multi-hardware.com/retrogami
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
