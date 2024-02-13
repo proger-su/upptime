@@ -5,23 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tarot-ana.fr.ico",
     "slug": "tarot-ana",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 506,
-    "timeDay": 286,
-    "timeWeek": 329,
-    "timeMonth": 399,
-    "timeYear": 521,
+    "time": 504,
+    "timeDay": 171,
+    "timeWeek": 291,
+    "timeMonth": 395,
+    "timeYear": 520,
     "dailyMinutesDown": {
       "2023-07-07": 321,
       "2023-07-06": 46,
       "2023-06-26": 621,
       "2023-06-25": 20,
-      "2023-02-14": 67,
-      "2023-02-13": 1
+      "2023-02-14": 67
     }
   },
   {
@@ -36,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 369,
-    "timeDay": 340,
-    "timeWeek": 343,
-    "timeMonth": 404,
+    "timeDay": 280,
+    "timeWeek": 329,
+    "timeMonth": 406,
     "timeYear": 369,
     "dailyMinutesDown": {}
   },
@@ -53,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4195,
-    "timeDay": 4745,
-    "timeWeek": 5143,
-    "timeMonth": 4548,
-    "timeYear": 4195,
+    "time": 4365,
+    "timeDay": 12176,
+    "timeWeek": 6076,
+    "timeMonth": 4861,
+    "timeYear": 4365,
     "dailyMinutesDown": {}
   }
 ]
