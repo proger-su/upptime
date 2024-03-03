@@ -27,35 +27,39 @@
     "url": "https://hdaily.astrofeed.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/hdaily.astrofeed.ovh.ico",
     "slug": "h-daily",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 362,
-    "timeWeek": 373,
-    "timeMonth": 341,
-    "timeYear": 366,
-    "dailyMinutesDown": {}
+    "time": 365,
+    "timeDay": 249,
+    "timeWeek": 343,
+    "timeMonth": 334,
+    "timeYear": 365,
+    "dailyMinutesDown": {
+      "2024-03-03": 0
+    }
   },
   {
     "name": "Multi Hardware",
     "url": "https://www.multi-hardware.com/retrogami",
     "icon": "https://icons.duckduckgo.com/ip3/www.multi-hardware.com.ico",
     "slug": "multi-hardware",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4583,
-    "timeDay": 4464,
-    "timeWeek": 5321,
-    "timeMonth": 5383,
-    "timeYear": 4583,
-    "dailyMinutesDown": {}
+    "time": 4516,
+    "timeDay": 2298,
+    "timeWeek": 4672,
+    "timeMonth": 5208,
+    "timeYear": 4516,
+    "dailyMinutesDown": {
+      "2024-03-03": 0
+    }
   }
 ]
