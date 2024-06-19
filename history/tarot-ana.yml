@@ -1,7 +1,7 @@
 url: https://www.tarot-ana.fr
-status: up
-code: 200
-responseTime: 483
-lastUpdated: 2024-06-19T10:27:00.852Z
+status: down
+code: 502
+responseTime: 214
+lastUpdated: 2024-06-19T11:32:57.142Z
 startTime: 2021-11-06T14:28:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
