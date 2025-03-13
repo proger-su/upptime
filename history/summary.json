@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 512,
-    "timeDay": 523,
-    "timeWeek": 324,
-    "timeMonth": 323,
+    "time": 511,
+    "timeDay": 241,
+    "timeWeek": 303,
+    "timeMonth": 322,
     "timeYear": 524,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hdaily.astrofeed.ovh.ico",
     "slug": "h-daily",
     "status": "up",
-    "uptime": "96.61%",
+    "uptime": "96.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.81%",
     "time": 483,
-    "timeDay": 545,
-    "timeWeek": 546,
-    "timeMonth": 494,
+    "timeDay": 335,
+    "timeWeek": 494,
+    "timeMonth": 491,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2024-06-18": 17,
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.20%",
     "time": 2981,
-    "timeDay": 1542,
-    "timeWeek": 1590,
-    "timeMonth": 1647,
-    "timeYear": 2902,
+    "timeDay": 1437,
+    "timeWeek": 1501,
+    "timeMonth": 1633,
+    "timeYear": 2900,
     "dailyMinutesDown": {
       "2024-06-25": 947,
       "2024-06-24": 710,
@@ -104,8 +104,7 @@
       "2024-03-27": 40,
       "2024-03-26": 17,
       "2024-03-25": 740,
-      "2024-03-14": 22,
-      "2024-03-13": 0
+      "2024-03-14": 22
     }
   }
 ]
