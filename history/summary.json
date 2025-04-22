@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 487,
-    "timeDay": 394,
-    "timeWeek": 251,
-    "timeMonth": 323,
-    "timeYear": 436,
+    "timeDay": 277,
+    "timeWeek": 269,
+    "timeMonth": 324,
+    "timeYear": 435,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.96%",
     "time": 492,
-    "timeDay": 380,
-    "timeWeek": 428,
-    "timeMonth": 514,
+    "timeDay": 454,
+    "timeWeek": 431,
+    "timeMonth": 513,
     "timeYear": 535,
     "dailyMinutesDown": {
       "2024-06-18": 17,
@@ -55,16 +55,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.multi-hardware.com.ico",
     "slug": "multi-hardware",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 2247,
-    "timeDay": 1431,
-    "timeWeek": 1464,
+    "timeDay": 1325,
+    "timeWeek": 1448,
     "timeMonth": 1571,
-    "timeYear": 2114,
+    "timeYear": 2089,
     "dailyMinutesDown": {
       "2024-06-25": 947,
       "2024-06-24": 710,
@@ -79,8 +79,7 @@
       "2024-05-06": 65,
       "2024-05-03": 19,
       "2024-05-02": 28,
-      "2024-04-28": 17,
-      "2024-04-22": 15
+      "2024-04-28": 17
     }
   }
 ]
