@@ -6,18 +6,16 @@
     "slug": "tarot-ana",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 410,
-    "timeDay": 303,
-    "timeWeek": 260,
-    "timeMonth": 429,
+    "timeDay": 332,
+    "timeWeek": 263,
+    "timeMonth": 431,
     "timeYear": 333,
-    "dailyMinutesDown": {
-      "2025-08-16": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "H Daily",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 543,
-    "timeDay": 353,
+    "timeDay": 474,
     "timeWeek": 475,
-    "timeMonth": 484,
-    "timeYear": 497,
+    "timeMonth": 480,
+    "timeYear": 498,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1625,
-    "timeDay": 1408,
-    "timeWeek": 1447,
-    "timeMonth": 1427,
-    "timeYear": 1588,
+    "time": 1627,
+    "timeDay": 1483,
+    "timeWeek": 1455,
+    "timeMonth": 1418,
+    "timeYear": 1586,
     "dailyMinutesDown": {}
   }
 ]
