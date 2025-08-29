@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 406,
-    "timeDay": 456,
-    "timeWeek": 428,
-    "timeMonth": 431,
+    "timeDay": 432,
+    "timeWeek": 336,
+    "timeMonth": 432,
     "timeYear": 332,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 548,
-    "timeDay": 647,
-    "timeWeek": 576,
-    "timeMonth": 481,
+    "timeDay": 601,
+    "timeWeek": 572,
+    "timeMonth": 487,
     "timeYear": 502,
     "dailyMinutesDown": {}
   },
@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.multi-hardware.com.ico",
     "slug": "multi-hardware",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptime": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1608,
-    "timeDay": 1580,
-    "timeWeek": 1565,
-    "timeMonth": 1431,
-    "timeYear": 1568,
-    "dailyMinutesDown": {
-      "2025-08-28": 4
-    }
+    "time": 1610,
+    "timeDay": 1503,
+    "timeWeek": 1532,
+    "timeMonth": 1434,
+    "timeYear": 1567,
+    "dailyMinutesDown": {}
   }
 ]
