@@ -4,19 +4,19 @@
     "url": "https://www.tarot-ana.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.tarot-ana.fr.ico",
     "slug": "tarot-ana",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 313,
-    "timeWeek": 304,
-    "timeMonth": 316,
+    "time": 404,
+    "timeDay": 300,
+    "timeWeek": 301,
+    "timeMonth": 315,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2025-08-30": 0
+      "2025-08-30": 6
     }
   },
   {
