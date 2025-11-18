@@ -24,19 +24,19 @@
     "url": "https://hdaily.astrofeed.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/hdaily.astrofeed.ovh.ico",
     "slug": "h-daily",
-    "status": "down",
+    "status": "up",
     "uptime": "97.65%",
-    "uptimeDay": "90.59%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "90.11%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.97%",
     "time": 494,
-    "timeDay": 507,
-    "timeWeek": 507,
-    "timeMonth": 489,
+    "timeDay": 498,
+    "timeWeek": 502,
+    "timeMonth": 487,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2025-11-18": 135
+      "2025-11-18": 142
     }
   },
   {
