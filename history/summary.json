@@ -4,16 +4,16 @@
     "url": "https://www.tarot-ana.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.tarot-ana.fr.ico",
     "slug": "tarot-ana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "97.84%",
+    "uptimeDay": "97.83%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 334,
-    "timeDay": 203,
-    "timeWeek": 224,
-    "timeMonth": 287,
+    "timeDay": 189,
+    "timeWeek": 216,
+    "timeMonth": 283,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2025-11-18": 31
@@ -24,19 +24,19 @@
     "url": "https://hdaily.astrofeed.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/hdaily.astrofeed.ovh.ico",
     "slug": "h-daily",
-    "status": "up",
+    "status": "down",
     "uptime": "97.66%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 406,
-    "timeWeek": 462,
-    "timeMonth": 473,
-    "timeYear": 528,
+    "time": 491,
+    "timeDay": 371,
+    "timeWeek": 440,
+    "timeMonth": 466,
+    "timeYear": 527,
     "dailyMinutesDown": {
-      "2025-11-18": 14
+      "2025-11-18": 0
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "multi-hardware",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 1675,
     "timeDay": 1063,
@@ -56,7 +56,6 @@
     "timeMonth": 1867,
     "timeYear": 1667,
     "dailyMinutesDown": {
-      "2025-11-18": 14,
       "2025-10-27": 31
     }
   }
