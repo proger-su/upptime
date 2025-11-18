@@ -4,19 +4,19 @@
     "url": "https://www.tarot-ana.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.tarot-ana.fr.ico",
     "slug": "tarot-ana",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "96.58%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "88.44%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.97%",
     "time": 334,
-    "timeDay": 189,
-    "timeWeek": 216,
-    "timeMonth": 283,
+    "timeDay": 211,
+    "timeWeek": 224,
+    "timeMonth": 284,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2025-11-18": 49
+      "2025-11-18": 166
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://hdaily.astrofeed.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/hdaily.astrofeed.ovh.ico",
     "slug": "h-daily",
-    "status": "down",
-    "uptime": "97.66%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 371,
-    "timeWeek": 440,
-    "timeMonth": 466,
+    "status": "up",
+    "uptime": "97.65%",
+    "uptimeDay": "90.60%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.97%",
+    "time": 492,
+    "timeDay": 410,
+    "timeWeek": 455,
+    "timeMonth": 470,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2025-11-18": 18
+      "2025-11-18": 135
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.multi-hardware.com.ico",
     "slug": "multi-hardware",
     "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.56%",
+    "uptimeDay": "91.85%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.97%",
     "time": 1674,
     "timeDay": 949,
     "timeWeek": 1377,
     "timeMonth": 1826,
     "timeYear": 1663,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 117,
       "2025-10-27": 31
     }
   }
