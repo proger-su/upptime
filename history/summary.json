@@ -4,19 +4,19 @@
     "url": "https://www.tarot-ana.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.tarot-ana.fr.ico",
     "slug": "tarot-ana",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 334,
-    "timeDay": 169,
-    "timeWeek": 218,
-    "timeMonth": 288,
+    "timeDay": 203,
+    "timeWeek": 224,
+    "timeMonth": 287,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2025-11-18": 18
+      "2025-11-18": 31
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://hdaily.astrofeed.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/hdaily.astrofeed.ovh.ico",
     "slug": "h-daily",
-    "status": "down",
+    "status": "up",
     "uptime": "97.66%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 346,
-    "timeWeek": 444,
-    "timeMonth": 468,
+    "time": 492,
+    "timeDay": 406,
+    "timeWeek": 462,
+    "timeMonth": 473,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 14
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.multi-hardware.com/retrogami",
     "icon": "https://icons.duckduckgo.com/ip3/www.multi-hardware.com.ico",
     "slug": "multi-hardware",
-    "status": "down",
+    "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 1677,
-    "timeDay": 909,
-    "timeWeek": 1429,
-    "timeMonth": 1864,
-    "timeYear": 1666,
+    "time": 1675,
+    "timeDay": 1063,
+    "timeWeek": 1472,
+    "timeMonth": 1867,
+    "timeYear": 1667,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 14,
       "2025-10-27": 31
     }
   }
