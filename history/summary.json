@@ -6,9 +6,9 @@
     "slug": "tarot-ana",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 334,
     "timeDay": 169,
@@ -16,7 +16,7 @@
     "timeMonth": 288,
     "timeYear": 315,
     "dailyMinutesDown": {
-      "2025-11-18": 12
+      "2025-11-18": 18
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://hdaily.astrofeed.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/hdaily.astrofeed.ovh.ico",
     "slug": "h-daily",
-    "status": "up",
+    "status": "down",
     "uptime": "97.66%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 491,
-    "timeDay": 376,
-    "timeWeek": 464,
-    "timeMonth": 474,
+    "timeDay": 346,
+    "timeWeek": 444,
+    "timeMonth": 468,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2025-11-18": 6
+      "2025-11-18": 0
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.multi-hardware.com/retrogami",
     "icon": "https://icons.duckduckgo.com/ip3/www.multi-hardware.com.ico",
     "slug": "multi-hardware",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 1679,
-    "timeDay": 1051,
-    "timeWeek": 1541,
-    "timeMonth": 1907,
-    "timeYear": 1670,
+    "time": 1677,
+    "timeDay": 909,
+    "timeWeek": 1429,
+    "timeMonth": 1864,
+    "timeYear": 1666,
     "dailyMinutesDown": {
-      "2025-11-18": 6,
+      "2025-11-18": 0,
       "2025-10-27": 31
     }
   }
