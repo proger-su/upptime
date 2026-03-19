@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 311,
-    "timeDay": 180,
-    "timeWeek": 600,
-    "timeMonth": 379,
-    "timeYear": 316,
+    "timeDay": 366,
+    "timeWeek": 282,
+    "timeMonth": 380,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2025-11-18": 166
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hdaily.astrofeed.ovh.ico",
     "slug": "h-daily",
     "status": "up",
-    "uptime": "97.95%",
+    "uptime": "97.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 526,
-    "timeDay": 475,
-    "timeWeek": 592,
-    "timeMonth": 530,
+    "timeDay": 452,
+    "timeWeek": 469,
+    "timeMonth": 524,
     "timeYear": 550,
     "dailyMinutesDown": {
       "2025-11-18": 135
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.91%",
     "time": 1777,
-    "timeDay": 1232,
-    "timeWeek": 1743,
-    "timeMonth": 1615,
+    "timeDay": 1458,
+    "timeWeek": 1589,
+    "timeMonth": 1603,
     "timeYear": 1839,
     "dailyMinutesDown": {
       "2026-03-16": 48,
