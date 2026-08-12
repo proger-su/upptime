@@ -13,7 +13,7 @@
     "time": 625,
     "timeDay": 1516,
     "timeWeek": 1435,
-    "timeMonth": 1622,
+    "timeMonth": 1635,
     "timeYear": 710,
     "dailyMinutesDown": {
       "2025-11-18": 166,
@@ -38,7 +38,7 @@
     "time": 536,
     "timeDay": 720,
     "timeWeek": 568,
-    "timeMonth": 521,
+    "timeMonth": 526,
     "timeYear": 502,
     "dailyMinutesDown": {
       "2025-11-18": 135,
@@ -50,16 +50,16 @@
     "url": "https://www.multi-hardware.com/retrogami",
     "icon": "https://icons.duckduckgo.com/ip3/www.multi-hardware.com.ico",
     "slug": "multi-hardware",
-    "status": "down",
+    "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "85.70%",
-    "uptimeWeek": "96.53%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "85.32%",
+    "uptimeWeek": "96.47%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "99.51%",
-    "time": 2004,
-    "timeDay": 1828,
-    "timeWeek": 1804,
-    "timeMonth": 2032,
+    "time": 2005,
+    "timeDay": 1862,
+    "timeWeek": 1820,
+    "timeMonth": 2035,
     "timeYear": 2091,
     "dailyMinutesDown": {
       "2025-10-27": 31,
@@ -105,7 +105,7 @@
       "2026-08-06": 57,
       "2026-08-09": 21,
       "2026-08-11": 66,
-      "2026-08-12": 205
+      "2026-08-12": 211
     }
   }
 ]
