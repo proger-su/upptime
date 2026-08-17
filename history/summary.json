@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 632,
-    "timeDay": 1624,
-    "timeWeek": 1524,
-    "timeMonth": 1609,
-    "timeYear": 722,
+    "time": 635,
+    "timeDay": 1796,
+    "timeWeek": 1572,
+    "timeMonth": 1615,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2025-11-18": 166,
       "2026-03-25": 22,
@@ -36,10 +36,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 537,
-    "timeDay": 675,
-    "timeWeek": 584,
-    "timeMonth": 525,
-    "timeYear": 503,
+    "timeDay": 373,
+    "timeWeek": 566,
+    "timeMonth": 520,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2025-11-18": 135,
       "2026-04-30": 33
@@ -52,15 +52,15 @@
     "slug": "multi-hardware",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "90.56%",
-    "uptimeWeek": "66.38%",
-    "uptimeMonth": "91.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "66.52%",
+    "uptimeMonth": "91.53%",
     "uptimeYear": "98.92%",
-    "time": 2000,
-    "timeDay": 1295,
-    "timeWeek": 1616,
-    "timeMonth": 1810,
-    "timeYear": 2061,
+    "time": 2001,
+    "timeDay": 1240,
+    "timeWeek": 1605,
+    "timeMonth": 1813,
+    "timeYear": 2062,
     "dailyMinutesDown": {
       "2025-10-27": 31,
       "2025-11-18": 125,
@@ -108,8 +108,7 @@
       "2026-08-12": 205,
       "2026-08-13": 741,
       "2026-08-15": 921,
-      "2026-08-14": 1440,
-      "2026-08-16": 14
+      "2026-08-14": 1440
     }
   }
 ]
