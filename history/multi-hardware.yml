@@ -1,7 +1,7 @@
 url: https://www.multi-hardware.com/retrogami
-status: up
-code: 200
-responseTime: 1931
-lastUpdated: 2026-08-31T04:59:39.185Z
+status: down
+code: 500
+responseTime: 367
+lastUpdated: 2026-08-31T07:42:45.979Z
 startTime: 2023-12-29T10:54:29.784Z
 generator: Upptime <https://github.com/upptime/upptime>
