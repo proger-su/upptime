@@ -51,10 +51,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.multi-hardware.com.ico",
     "slug": "multi-hardware",
     "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "91.57%",
+    "uptime": "99.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "91.59%",
     "uptimeYear": "98.90%",
     "time": 1966,
     "timeDay": 1834,
@@ -112,8 +112,7 @@
       "2026-08-18": 35,
       "2026-08-20": 21,
       "2026-08-26": 18,
-      "2026-09-01": 42,
-      "2026-09-02": 6
+      "2026-09-01": 42
     }
   }
 ]
