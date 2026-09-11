@@ -50,17 +50,17 @@
     "url": "https://www.multi-hardware.com/retrogami",
     "icon": "https://icons.duckduckgo.com/ip3/www.multi-hardware.com.ico",
     "slug": "multi-hardware",
-    "status": "down",
+    "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "92.03%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "92.00%",
     "uptimeYear": "98.89%",
-    "time": 1994,
-    "timeDay": 6283,
-    "timeWeek": 2430,
-    "timeMonth": 1826,
-    "timeYear": 2065,
+    "time": 1997,
+    "timeDay": 5960,
+    "timeWeek": 2513,
+    "timeMonth": 1845,
+    "timeYear": 2069,
     "dailyMinutesDown": {
       "2025-10-27": 31,
       "2025-11-18": 125,
@@ -115,7 +115,7 @@
       "2026-09-01": 42,
       "2026-09-03": 28,
       "2026-09-06": 40,
-      "2026-09-11": 0
+      "2026-09-11": 10
     }
   }
 ]
