@@ -30,7 +30,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hdaily.astrofeed.ovh.ico",
     "slug": "h-daily",
     "status": "up",
-    "uptime": "98.28%",
+    "uptime": "98.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -50,17 +50,17 @@
     "url": "https://www.multi-hardware.com/retrogami",
     "icon": "https://icons.duckduckgo.com/ip3/www.multi-hardware.com.ico",
     "slug": "multi-hardware",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "98.23%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "98.88%",
-    "time": 1997,
-    "timeDay": 1326,
-    "timeWeek": 2696,
-    "timeMonth": 1806,
-    "timeYear": 2058,
+    "time": 1996,
+    "timeDay": 1246,
+    "timeWeek": 2601,
+    "timeMonth": 1817,
+    "timeYear": 2056,
     "dailyMinutesDown": {
       "2025-10-27": 31,
       "2025-11-18": 125,
@@ -115,7 +115,7 @@
       "2026-09-01": 42,
       "2026-09-03": 28,
       "2026-09-06": 40,
-      "2026-09-15": 30
+      "2026-09-15": 24
     }
   }
 ]
