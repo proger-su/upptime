@@ -52,14 +52,14 @@
     "slug": "multi-hardware",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.51%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "98.88%",
     "time": 2003,
     "timeDay": 1763,
     "timeWeek": 2588,
-    "timeMonth": 1856,
+    "timeMonth": 1871,
     "timeYear": 2060,
     "dailyMinutesDown": {
       "2025-10-27": 31,
@@ -115,7 +115,7 @@
       "2026-09-01": 42,
       "2026-09-03": 28,
       "2026-09-06": 40,
-      "2026-09-15": 30
+      "2026-09-15": 24
     }
   }
 ]
