@@ -4,17 +4,17 @@
     "url": "https://www.tarot-ana.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.tarot-ana.fr.ico",
     "slug": "tarot-ana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 947,
-    "timeDay": 1640,
-    "timeWeek": 7472,
-    "timeMonth": 3062,
-    "timeYear": 1132,
+    "time": 992,
+    "timeDay": 12195,
+    "timeWeek": 9170,
+    "timeMonth": 3624,
+    "timeYear": 1189,
     "dailyMinutesDown": {
       "2025-11-18": 166,
       "2026-03-25": 22,
@@ -22,7 +22,8 @@
       "2026-04-15": 21,
       "2026-04-16": 30,
       "2026-05-01": 32,
-      "2026-10-21": 33
+      "2026-10-21": 33,
+      "2026-11-03": 7
     }
   },
   {
@@ -53,9 +54,9 @@
     "slug": "multi-hardware",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "98.83%",
     "time": 2032,
     "timeDay": 2494,
@@ -121,7 +122,7 @@
       "2026-09-21": 31,
       "2026-09-22": 52,
       "2026-09-23": 16,
-      "2026-11-03": 0
+      "2026-11-03": 14
     }
   }
 ]
