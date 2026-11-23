@@ -30,9 +30,9 @@
     "url": "https://hdaily.astrofeed.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/hdaily.astrofeed.ovh.ico",
     "slug": "h-daily",
-    "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.39%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -42,7 +42,8 @@
     "timeMonth": 540,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2026-04-30": 33
+      "2026-04-30": 33,
+      "2026-11-23": 0
     }
   },
   {
@@ -51,11 +52,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.multi-hardware.com.ico",
     "slug": "multi-hardware",
     "status": "down",
-    "uptime": "98.04%",
+    "uptime": "97.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.60%",
-    "uptimeYear": "94.30%",
+    "uptimeMonth": "43.77%",
+    "uptimeYear": "94.15%",
     "time": 2064,
     "timeDay": 79,
     "timeWeek": 116,
@@ -119,7 +120,7 @@
       "2026-09-22": 52,
       "2026-09-23": 16,
       "2026-11-03": 58,
-      "2026-11-23": 5,
+      "2026-11-23": 808,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
